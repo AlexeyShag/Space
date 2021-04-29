@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libGeometry_lib.a  CMakeFiles/Geometry_lib.dir/Geometry.cpp.o
+/usr/bin/ranlib ../../lib/libGeometry_lib.a
