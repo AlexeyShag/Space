@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libGameObjects_lib.a  CMakeFiles/GameObjects_lib.dir/GameObject.cpp.o CMakeFiles/GameObjects_lib.dir/UI/UI.cpp.o CMakeFiles/GameObjects_lib.dir/UI/Button/Button.cpp.o CMakeFiles/GameObjects_lib.dir/UI/Text/Text.cpp.o CMakeFiles/GameObjects_lib.dir/UI/UIBox/UIBox.cpp.o CMakeFiles/GameObjects_lib.dir/Unit/Unit.cpp.o CMakeFiles/GameObjects_lib.dir/Unit/Parts/Parts.cpp.o CMakeFiles/GameObjects_lib.dir/Unit/SpaceShip/SpaceShip.cpp.o
+/usr/bin/ranlib ../../lib/libGameObjects_lib.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libAnimation_lib.a  CMakeFiles/Animation_lib.dir/ComplexAnimation/ComplexAnimation.cpp.o CMakeFiles/Animation_lib.dir/SimpleAnimation/SimpleAnimation.cpp.o
+/usr/bin/ranlib ../../lib/libAnimation_lib.a

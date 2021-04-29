@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libGame_lib.a  CMakeFiles/Game_lib.dir/Game.cpp.o CMakeFiles/Game_lib.dir/Scene/Scene.cpp.o CMakeFiles/Game_lib.dir/GameScene/GameScene.cpp.o CMakeFiles/Game_lib.dir/GameScene/Chunk/Chunk.cpp.o CMakeFiles/Game_lib.dir/GameScene/MiniMap/MiniMap.cpp.o
+/usr/bin/ranlib ../../lib/libGame_lib.a
