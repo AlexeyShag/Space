@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/smerch/projects/tp_project/Space/Geometry/Geometry.cpp
+Geometry.h
+/home/smerch/projects/tp_project/Space/Geometry/Geometry.h
+
+/home/smerch/projects/tp_project/Space/Geometry/Geometry.h
+cmath
+-
+

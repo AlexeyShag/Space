@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libGraphics_lib.a  CMakeFiles/Graphics_lib.dir/Graphics.cpp.o CMakeFiles/Graphics_lib.dir/Image/Image.cpp.o CMakeFiles/Graphics_lib.dir/Color/Color.cpp.o
+/usr/bin/ranlib ../../lib/libGraphics_lib.a
